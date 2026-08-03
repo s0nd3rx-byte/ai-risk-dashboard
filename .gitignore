@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
+*.log
+test_yfinance.py
