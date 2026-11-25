@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-24 21:49:48",
-  "total_score": 70.0,
+  "timestamp": "2026-11-25 20:56:18",
+  "total_score": 66.0,
   "alert": "⚡ 中高风险 — 密切关注",
   "alert_level": "warning",
   "indicators": [
@@ -62,12 +62,11 @@
     },
     {
       "name": "Kospi-Nasdaq相关性",
-      "score": 60,
+      "score": 40,
       "weight": 0.2,
-      "weighted": 12.0,
+      "weighted": 8.0,
       "prev_score": 60,
       "history": [
-        60,
         40,
         40,
         40,
@@ -96,10 +95,11 @@
         60,
         60,
         60,
-        60
+        60,
+        40
       ],
-      "raw_value": "相关性 0.218 (分位 64%)",
-      "trend": "flat"
+      "raw_value": "相关性 0.174 (分位 58%)",
+      "trend": "down"
     },
     {
       "name": "AI股间相关性",
@@ -135,7 +135,7 @@
         25,
         25,
         25,
-        25,
+        40,
         40,
         40
       ],
